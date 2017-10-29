@@ -1,0 +1,8 @@
+C:\Users\UX303\Desktop\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+C:\Users\UX303\Desktop\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+C:\Users\UX303\Desktop\TestSocket\TestSocket\obj\Debug\TestSocket.Form1.resources
+C:\Users\UX303\Desktop\TestSocket\TestSocket\obj\Debug\TestSocket.Properties.Resources.resources
+C:\Users\UX303\Desktop\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.Cache
+C:\Users\UX303\Desktop\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CoreCompileInputs.cache
+C:\Users\UX303\Desktop\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+C:\Users\UX303\Desktop\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
